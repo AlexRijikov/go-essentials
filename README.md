@@ -8,12 +8,13 @@ How to update my git project
 //all files 
 git add .
 
-//certain file
+//certain file - Додаю до локального сховища конкретний фаіл.
 git add README.md
 
-//exmaple 
+//exmaple - Додати конкретний фаїл по шляху до нього.
 git add cmd/testfile.go
 
-git commit -m "update readme file"
+git commit -m "update readme file" - Додаю в локальне сховище, і в лапках описую що додав. 
 
-git push 
+// Пушу в відаленний репозиторій на GatHub.
+git push
