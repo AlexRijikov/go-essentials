@@ -5,7 +5,7 @@ This is my first GO project where I'll learn how to use it
 
 How to update my git project
 
-//all files 
+//all files - Додати усі файли в систему Git 
 git add .
 
 //certain file - Додаю до локального сховища конкретний фаіл.
