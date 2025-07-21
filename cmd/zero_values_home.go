@@ -19,5 +19,5 @@ func PrintZeroValues() {
 
 	var f float32
 
-	fmt.Print(a, s, b, f)
+	fmt.Println(a, s, b, f)
 }
